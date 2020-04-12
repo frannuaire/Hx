@@ -1,0 +1,12 @@
+{   
+    "name": "kfhx/kfhx",
+    "description": "just a test",
+    "keywords": ["H1", "test"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": { "kfhx\\": ["src/"] }     
+    },
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
